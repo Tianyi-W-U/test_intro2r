@@ -1,0 +1,1 @@
+# Memo: Cannot push repositories to github
